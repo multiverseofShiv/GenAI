@@ -1,0 +1,10 @@
+# trasnformers
+dotenv
+langchain
+langchain-community
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+langchain_groq
