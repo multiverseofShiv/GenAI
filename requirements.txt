@@ -8,3 +8,9 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 langchain_groq
+beautifulsoup4
+streamlit
+langchain_core
+fastapi
+uvicorn
+langserve
